@@ -3,6 +3,20 @@
 # Amit Hendin
 ### CS msc student at BGU
 
+<pre>
+     _________
+    / ======= \
+   / __________\
+  | ___________ |
+  | | ~$      | |
+  | |         | |
+  | |_________| |
+  \=____________/       
+  / """"""""""" \                      
+ / ::::::::::::: \                
+(_________________)
+</pre>
+
 > mail: hendina at post dot bgu dot ac dot il
 
 I have many interests in various fields in computer science, currently focusing on distributed computing. Open source software enthusiast, long time linux user.
