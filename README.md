@@ -4,7 +4,7 @@
 ### CS msc student at BGU
 
 
-```
+<pre>
      _________
     / ======= \
    / __________\
@@ -16,7 +16,7 @@
   / """"""""""" \                      
  / ::::::::::::: \                
 (_________________)
-```
+</pre>
 
 > mail: hendina at post dot bgu dot ac dot il
 
