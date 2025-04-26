@@ -1,7 +1,7 @@
 
 
 # Amit Hendin
-### CS msc student at BGU
+### CS Msc student at Ben-Gurion University
 
 <pre>
      _________
